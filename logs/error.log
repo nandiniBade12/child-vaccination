@@ -1,0 +1,57 @@
+2023-02-17 14:10:02 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+				
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.capg.ChildVaccination.Controller.UserController required a bean of type 'com.onlinedrycleaning.service.UserService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.onlinedrycleaning.service.UserService' in your configuration.
+
+2023-02-17 14:10:40 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+				
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.capg.ChildVaccination.Controller.UserController required a bean of type 'com.onlinedrycleaning.service.UserService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.onlinedrycleaning.service.UserService' in your configuration.
+
+2023-02-17 14:11:13 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter -
+				
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.capg.ChildVaccination.Controller.UserController required a bean of type 'com.onlinedrycleaning.service.UserService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.onlinedrycleaning.service.UserService' in your configuration.
+
